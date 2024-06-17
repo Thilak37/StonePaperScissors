@@ -6,7 +6,7 @@ print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 playing = input("\nDo you want to play ? ")
 
-if playing != "yy" :
+if playing != "y" :
     quit()
 
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
